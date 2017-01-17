@@ -1,0 +1,20 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="jijoon.com" resolutions="1x" timestamp="1484680092945">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3943269903" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="magazine.mp4" crc="429504189" seo="true" mt="1484676533000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u83.png" crc="364547342" ref="index"/>
+    <file name="u83-r.png" crc="4256845608" ref="index"/>
+  </folder>
+  <file name="index.html" crc="405828129" seo="true" mt="1484680062926" redirect="true"/>
+</manifest>
